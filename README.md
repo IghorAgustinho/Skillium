@@ -26,14 +26,15 @@ TCC Curso Técnico em Informática - IFPR Campus Pinhais 2025
 Skillium é um site responsivo e funcional voltado para estudantes que buscam melhor organização do tempo e dos conteúdos de estudo. Com uma interface intuitiva, o sistema oferece:
 
 - Criação de cronogramas de estudo
-- Temporizador com modo Pomodoro
+- Timer baseado no metodo pomodoro
 - Sistema de anotações rápidas
 - Upload e categorização de conteúdos
 - Painel com estatísticas de uso e progresso
+- Calendário integrado ao google
 
 ## 🧠 Público-alvo
 
-Estudantes do Ensino Médio, Técnico e Superior que desejam mais foco e organização na jornada de aprendizado.
+Estudantes do Ensino Médio,Técnico, Superior e pessoas que buscam organizar o estudo no geral
 
 ## 🎯 Objetivo
 
