@@ -18,8 +18,8 @@ TCC Curso Técnico em Informática - IFPR Campus Pinhais 2025
 
 ## 👥 Equipe
 
-- **Guilherme Borges** – Desenvolvimento Backend, front end e documentação  
-- **Ighor Alexandre** – Desenvolvimento Backend, front end e documentação  
+- **Guilherme Borges** – Desenvolvedor full-stack e documentação  
+- **Ighor Alexandre** – Desenvolvedor full-stack e documentação  
 
 ## 🎯 Visão Geral
 
