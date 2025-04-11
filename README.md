@@ -63,7 +63,7 @@ Desenvolver uma plataforma online que centralize ferramentas de organização pe
 
 | Id Risco | Descrição do Risco                             | Probabilidade | Impacto | Plano de Resposta                                               | Status do Risco     |
 |----------|------------------------------------------------|---------------|---------|------------------------------------------------------------------|----------------------|
-| R1       | Atraso na entrega de funcionalidades           | Alta          | Alto    | Divisão de tarefas com controle semanal                         | Em monitoramento     |
+| R1       | Atraso na entrega de funcionalidades           | Média         | Alto    | Divisão de tarefas com controle semanal                         | Em monitoramento     |
 | R2       | Erros no timer ou calendário                   | Média         | Alto    | Testes unitários e verificação cruzada entre navegadores        | Em desenvolvimento   |
 | R3       | Upload de arquivos inseguros                   | Média         | Alto    | Validação de tipo e antivírus automático na API                 | Em análise           |
 | R4       | Layout com problemas em telas pequenas         | Baixa         | Médio   | Aplicação de design responsivo com media queries                | Controlado           |
