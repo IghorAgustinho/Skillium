@@ -39,7 +39,7 @@ Este guia de estilo descreve os elementos visuais e componentes utilizados na co
 - **Primário:** Roxo claro (`#8B32F4`)
 - **Normal:** Roxo escuro (`#5320A6`)
 - **Secundário:** Preto Grafite (`#0E0D0D`)
-- **Ativo:** Bracon
+- **Ativo:** Braco
 
 Todos os botões têm texto branco ou preto (dependendo da cor de fundo), cantos arredondados e espaçamento consistente.
 
