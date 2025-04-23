@@ -76,6 +76,10 @@ Imagens decorativas ou de conteúdo seguem um estilo simples com borda cinza cla
 
 Este guia serve como uma referência visual para o desenvolvimento contínuo da interface do projeto, garantindo coesão e acessibilidade.
 
+Acesse o protótipo navegável através do link abaixo:
+
+👉 [Clique aqui para visualizar no Quant-UX](https://app.quant-ux.com/#/test.html?h=a2aa10aeNkthEyQjAYheWOkvKdzcOyZWngW2zJ9vjgBRAxiM27JSUYdHMV9G&ln=en)
+
 ## 👥 Equipe
 
 - **Guilherme Borges** – Desenvolvedor full-stack e documentação  
