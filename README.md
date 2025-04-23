@@ -5,6 +5,10 @@ TCC Curso Técnico em Informática - IFPR Campus Pinhais 2025
 
 **Skillium** é uma plataforma web desenvolvida para ajudar estudantes a organizar e potencializar seus estudos. Através de ferramentas como **timers personalizados**, **calendário interativo**, **anotações rápidas** e **upload de conteúdos**, o sistema busca tornar a rotina de estudos mais eficiente, produtiva e intuitiva.
 
+# Guia de Estilo - Projeto de Interface de Usuário
+
+Este guia de estilo descreve os elementos visuais e componentes utilizados na construção da interface do projeto. Ele serve como base para manter a consistência visual em todo o sistema.
+
 ## 🎨 Identidade Visual
 
 **Paleta de Cores – Aurora Boreal:**
@@ -15,6 +19,62 @@ TCC Curso Técnico em Informática - IFPR Campus Pinhais 2025
 | Roxo Escuro   | `#5320A6`  |
 | Branco Gelo   | `#F3F3F3`  |
 | Preto Grafite | `#0E0D0D`  |
+
+## 🔠 Tipografia
+
+**Família Principal:** Arial  
+**Família Secundária:** Verdana  
+
+| Elemento        | Fonte                | Tamanho     | Estilo         |
+|----------------|----------------------|-------------|----------------|
+| `H1`           | Arial Bold           | 32px        | Negrito        |
+| `H2/H3/etc.`   | Arial                | 20px        | Padrão         |
+| Texto normal   | Verdana              | 16px        | Padrão         |
+| Botões         | Arial Negrito        | 16px        | Negrito        |
+
+---
+
+## 🔘 Botões
+
+- **Primário:** Roxo claro (`#8B32F4`)
+- **Normal:** Roxo escuro (`#5320A6`)
+- **Secundário:** Preto Grafite (`#0E0D0D`)
+- **Ativo:** Bracon
+
+Todos os botões têm texto branco ou preto (dependendo da cor de fundo), cantos arredondados e espaçamento consistente.
+
+---
+
+## 📦 Elementos de Formulário
+
+- Campos de texto com bordas retas, fundo branco e texto cinza claro como placeholder.
+- Botões de ação: Salvar, Editar, Apagar, todos com cores de destaque (`#8B32F4`), estilo negrito.
+
+---
+
+## 🔣 Ícones
+
+**Fonte Utilizada:** Font Awesome  
+Ícones incluídos:
+- Calendário
+- Sino (Timer)
+- Documento
+- Livro
+- Sair (log out)
+
+Todos estilizados com a cor `#8B32F4`, mantendo o padrão visual.
+
+---
+
+## 🖼️ Imagens
+
+Imagens decorativas ou de conteúdo seguem um estilo simples com borda cinza clara e fundo neutro.
+
+---
+
+## ✅ Objetivo
+
+Este guia serve como uma referência visual para o desenvolvimento contínuo da interface do projeto, garantindo coesão e acessibilidade.
 
 ## 👥 Equipe
 
