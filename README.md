@@ -133,6 +133,7 @@ Desenvolver uma plataforma online que centralize ferramentas de organização pe
 | R4       | Layout com problemas em telas pequenas         | Baixa         | Médio   | Aplicação de design responsivo com media queries                | Controlado           |
 | R5       | Baixa adesão por complexidade de uso           | Média         | Médio   | Interface intuitiva e testes com usuários                       | Em melhoria contínua |
 
+[Clique aqui para abrir o Diagrama de Atividade](https://www.mermaidchart.com/raw/1d2757ea-143f-41b5-b738-9b84568e656c?theme=light&version=v0.1&format=svg)
 ---
 
 
