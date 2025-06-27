@@ -134,7 +134,8 @@ Desenvolver uma plataforma online que centralize ferramentas de organização pe
 | R5       | Baixa adesão por complexidade de uso           | Média         | Médio   | Interface intuitiva e testes com usuários                       | Em melhoria contínua |
 
 [Clique aqui para abrir o Diagrama de Atividade](https://www.mermaidchart.com/raw/1d2757ea-143f-41b5-b738-9b84568e656c?theme=light&version=v0.1&format=svg)
-[Clique aqui para abrir o Trello do nosso projeto](https://trello.com/invite/b/685dfed0478c0018a4e197da/ATTI9d93741efbb0da9fe79c29ee7e5a55d20C3A1ED9/organizacao)
+
+[Clique aqui para abrir o Trello do nosso projeto](https://trello.com/invite/b/685dfed0478c0018a4e197da/ATTI9d93741efbb0da9fe79c29ee7e5a55d20C3A1ED9/organizacao).
 ---
 
 
